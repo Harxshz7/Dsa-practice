@@ -1,0 +1,11 @@
+package looping_territory;
+
+public class Rev_loop {
+    public static void main(String[] args) {
+        int n = 10;
+        for (int i = n; i >= 1; i--) {
+            System.out.println(i);
+        }
+    }
+
+}
