@@ -1,3 +1,5 @@
+package looping_territory;
+
 public class Pattren5 {
     public static void main(String[] args) {
         for (int i = 5; i >= 1; i--) {
