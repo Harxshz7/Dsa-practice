@@ -1,3 +1,4 @@
+package while_territory;
 public class slide {
     public static void main(String[] args) {
         String str = "method";

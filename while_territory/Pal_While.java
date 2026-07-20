@@ -1,3 +1,5 @@
+package while_territory;
+
 public class Pal_While {
     public static void main(String[] args) {
         String str = "level";
