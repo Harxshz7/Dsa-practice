@@ -6,7 +6,6 @@ public class Revers_Only_Pal {
         char[] y = x.toCharArray();
         while (i < j) {
             if (y[i] != y[j]) {
-                System.out.println(x + " is not a palindrome");
                 return;
             }
             i++;
