@@ -1,4 +1,4 @@
-package user_method;
+package looping_territory;
 
 public class Ascii {
     public static void main(String[] args) {
