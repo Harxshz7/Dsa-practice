@@ -13,6 +13,6 @@ public class Oddsum {
             no /= 10;
         }
 
-        System.out.println("sum of even number digit in given number is " + oddsum);
+        System.out.println("sum of odd number digit in given number is " + oddsum);
     }
 }
